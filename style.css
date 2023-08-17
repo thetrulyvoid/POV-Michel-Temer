@@ -1,0 +1,59 @@
+body {
+    font-family: 'Roboto Mono',monospace;
+    min-height: 400px;
+    background-image: url('https://o.remove.bg/downloads/a1c842b2-4414-420b-9a37-3bdb51149b3e/20220920125825420-removebg-preview.png');
+    background-color:	#808080;
+    background-size: 80vh;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+  }
+  
+  .page-title {
+    color:#ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .Computador {
+    width: 500px;
+    position: absolute;
+    left: 460px;
+    top: 70px;
+    bottom: 50px;
+  }
+  
+  .Texto {
+    font-family: 'Roboto Mono',monospace;
+    width: 730px;
+    position: absolute;
+    left: 370px;
+    top: 490px;
+    margin: 0 auto;
+    font-size: 190%;
+    color: #ffffff;
+  }
+  
+  .TextoDoComputador {
+    font-family: 'Roboto Mono',monospace;
+    width: 730px;
+    position: absolute;
+    left: 570px;
+    top: 150px;
+    margin: 0 auto;
+    font-size: 170%;
+    color: #000000;
+    text-align: center;
+    width: 300px;
+  }
+  
+  button {
+    margin-top: 12px;
+    padding: 4px 8px;
+    left: 565px;
+    top: 220px;
+       position: absolute;
+    border-radius: 10px;
+    background: #ffffff;
+    width: 300px;
+    font-size: 150%;
+    text-align: center;
+  }
